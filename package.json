@@ -1,0 +1,23 @@
+{
+  "name": "m3a1",
+  "version": "1.0.0",
+  "description": "Module 3 Assignment: Data Format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbrow17/M3A1.git"
+  },
+  "author": "Michael Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbrow17/M3A1/issues"
+  },
+  "homepage": "https://github.com/mjbrow17/M3A1#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
